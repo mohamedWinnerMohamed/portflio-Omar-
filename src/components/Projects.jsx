@@ -1,9 +1,6 @@
 import React from "react";
 import sanhour from "/sanhour.png";
 import ecommerce from "/ecommerce.png";
-import solarPanelInstallers from "/solarPanelInstallers.png";
-import ageCalculator from "/ageCalculator.png";
-
 
 function Projects() {
   const listProjects = [
